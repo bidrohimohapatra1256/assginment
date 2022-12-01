@@ -1,0 +1,31 @@
+.imge{
+    background-image: url(./image/BACKGROUND.jpg);
+    height:700px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.header{
+    display: flex;
+    border-radius: 50%;
+    height: 500px;
+    width: 500px;
+    background-color:rgb(196, 14, 14);
+    text-align: center;
+   justify-content: center;
+    margin-top: 10px;
+    align-content: center;
+}
+.text{
+    color: darkslategray;
+    text-align: center;
+    
+}
+.top{
+    margin-top:30px;
+    
+}
+.p{
+    font-size:20px;
+}
